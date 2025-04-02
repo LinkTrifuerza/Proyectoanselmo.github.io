@@ -4,34 +4,10 @@ body {
     color: white;
     text-align: center;
 }
-
-.futuristic-font {
-    font-size: 2.5em;
-    text-transform: uppercase;
-    color: cyan;
-}
-
-input[type="text"] {
-    width: 80%;
-    padding: 10px;
-    margin-top: 10px;
-    border: none;
-    border-radius: 5px;
-}
-
-.product {
-    background-color: #292940;
-    padding: 20px;
-    margin: 10px;
-    border-radius: 10px;
-}
-
 button {
     background-color: cyan;
     color: black;
-    border: none;
     padding: 10px;
-    cursor: pointer;
 }
 img {
 width: 30%;
